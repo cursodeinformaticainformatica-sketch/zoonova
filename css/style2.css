@@ -1,6 +1,6 @@
 :root {
   --color-primario: #90ee90;
-  --color-acento: #fff8b5;
+  --color-acento: #87ceeb;
   --color-fondo: #87ceeb;
   --font-base: 'Segoe UI', sans-serif;
   --espaciado: 2rem;
@@ -133,4 +133,5 @@ footer {
     transform: translateY(0);
   }
 }
+
 
